@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/instagram/static/css/main.198380fd.css",
+    "main.js": "/instagram/static/js/main.9c2d2845.js",
+    "static/media/profile.jpg": "/instagram/static/media/profile.531b575533c1ef324dd8.jpg",
+    "static/media/search.png": "/instagram/static/media/search.a27091ef0c45faf8a66e.png",
+    "static/media/home.svg": "/instagram/static/media/home.78c6e0130d97818e36a1250201d74f20.svg",
+    "static/media/heart.svg": "/instagram/static/media/heart.1038d655608cc53523f04b7577f481a6.svg",
+    "index.html": "/instagram/index.html",
+    "static/media/notifications.svg": "/instagram/static/media/notifications.cd2a38863b68fed22958ce2fe1992fa7.svg",
+    "static/media/explore.svg": "/instagram/static/media/explore.ff9979a0f75d627fc7c2d2fba28c0367.svg",
+    "static/media/comments.svg": "/instagram/static/media/comments.339a875a3f7777dc869203b37ccf0395.svg",
+    "static/media/send.svg": "/instagram/static/media/send.2be8bf811e883c247446a7ada3828dac.svg",
+    "static/media/cardButton.svg": "/instagram/static/media/cardButton.3ea56b272505f8eebe502be074b44b93.svg",
+    "static/media/bookmark.svg": "/instagram/static/media/bookmark.dce2fb848b227e58b56bc4e58b8be5a9.svg",
+    "static/media/inbox.svg": "/instagram/static/media/inbox.d222bb94305f99af2b879930dbae62c8.svg",
+    "main.198380fd.css.map": "/instagram/static/css/main.198380fd.css.map",
+    "main.9c2d2845.js.map": "/instagram/static/js/main.9c2d2845.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.198380fd.css",
+    "static/js/main.9c2d2845.js"
+  ]
+}
